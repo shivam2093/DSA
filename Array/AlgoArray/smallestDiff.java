@@ -1,6 +1,9 @@
 package Array.AlgoArray;
 import java.util.*;
 
+
+
+// get smallest Difference from the tWO ARRAYS
 public class smallestDiff {
     
 
